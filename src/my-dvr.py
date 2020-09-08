@@ -29,7 +29,6 @@ next_node = {
 }
 
 
-
 # does the dv need to be updated is checked here
 # if not changed then no update, if changed then update
 def isNotChanged(matrixA, matrixB):
