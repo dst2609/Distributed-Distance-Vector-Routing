@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Devarsh Thaker
-PA 3
+Author: Devarsh Thaker
 """
 
 # start off by necessary imports
