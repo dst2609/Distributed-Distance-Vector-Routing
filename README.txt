@@ -3,7 +3,7 @@ README.txt
 
 For the programming assignment 3, I have used Python as the programming language.
 Name of the program my-dvr.py
-Name of the network file: network.txt
+Name of the network file: network.txt found in src/
 
 Imports are as follows:
 from threading import Thread
